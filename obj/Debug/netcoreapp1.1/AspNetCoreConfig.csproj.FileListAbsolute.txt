@@ -1,0 +1,9 @@
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\bin\Debug\netcoreapp1.1\AspNetCoreConfig.deps.json
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\bin\Debug\netcoreapp1.1\AspNetCoreConfig.runtimeconfig.json
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\bin\Debug\netcoreapp1.1\AspNetCoreConfig.runtimeconfig.dev.json
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\bin\Debug\netcoreapp1.1\AspNetCoreConfig.dll
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\bin\Debug\netcoreapp1.1\AspNetCoreConfig.pdb
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\obj\Debug\netcoreapp1.1\AspNetCoreConfig.csprojResolveAssemblyReference.cache
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\obj\Debug\netcoreapp1.1\AspNetCoreConfig.AssemblyInfo.cs
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\obj\Debug\netcoreapp1.1\AspNetCoreConfig.dll
+D:\My Learning\Blog\AngularCoreConfig\AspNetCoreConfig\AspNetCoreConfig\obj\Debug\netcoreapp1.1\AspNetCoreConfig.pdb
